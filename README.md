@@ -23,7 +23,7 @@ Banco de Dados: Para armazenar informações de abrigos, áreas de risco, etc.
 
 # Funcionalidades:
 
-# Localização de Abrigos:
+1. Localização de Abrigos:
 
 O chatbot utilizará a localização do usuário para identificar os abrigos mais próximos, incluindo informações como endereço, contato, capacidade e serviços oferecidos.
 A pesquisa por abrigos também poderá ser feita por filtros como tipo de abrigo (famílias, animais, etc.), necessidades especiais (acessível a cadeirantes, pessoas com necessidades alimentares, etc.) e distância.
@@ -32,11 +32,11 @@ O chatbot fornecerá informações sobre áreas de risco em tempo real, como ár
 O usuário poderá receber alertas personalizados sobre riscos em sua região.
 
 
-# Cadastro para Alertas:
+2. Cadastro para Alertas:
 O chatbot permitirá que o usuário se cadastre para receber alertas de desastres naturais e outras emergências via WhatsApp.
 Os alertas podem incluir informações sobre o tipo de desastre, local, tempo de resposta, instruções de segurança física e orientações de suporte psicológico.
 
-# Localização de Pontos de Distribuição:
+3. Localização de Pontos de Distribuição:
 O chatbot fornecerá informações sobre pontos de distribuição de água potável, roupas, alimentos, medicamentos e outros itens essenciais.
 A pesquisa por pontos de distribuição poderá ser feita por tipo de item, localização e horário de funcionamento.
 Reporte de Segurança:
