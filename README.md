@@ -63,5 +63,7 @@ Suporte em Múltiplos Idiomas: O chatbot oferecerá suporte em português e outr
 - Acessibilidade: O chatbot será acessível a pessoas com deficiências, incluindo recursos como leitura de tela e suporte a comandos de voz.
 - Sustentabilidade: O chatbot será projetado para ser sustentável, com baixo consumo de recursos e alta escalabilidade.
 
+  # Projeto criado para avaliação final do curso de IA Generativa promovida pela Alura e Google
+
 
 
