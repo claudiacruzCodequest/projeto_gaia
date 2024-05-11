@@ -1,4 +1,4 @@
-# projeto_gaia
+# Projeto Gaia
 Chatbot para WhatsApp para Auxílio a Pessoas em Situação de Emergências e Desastres
 
 # Inspiração para o nome: 
